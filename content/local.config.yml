@@ -88,10 +88,10 @@ resources:
         description: Bedrock features of the generalised digital geological map data based on BGS's published poster maps of the UK (North and South). Bedrock related themes created by generalisation of 1:50 000 data to make the 2007 fifth edition Bedrock Geology map. 
         keywords:
             - geology
-            - britain
-#        context:
-#            - schema: http://data.bgs.ac.uk/ref/Lexicon
-#              LEX: schema:notation
+            - britain       
+        context:
+            - schema: http://data.bgs.ac.uk/ref/Lexicon
+              LEX: schema:notation
         links:
             - type: text/html
               rel: canonical
